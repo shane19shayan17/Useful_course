@@ -7,3 +7,7 @@
     # C++
     1. type casting in c++ => 
     "https://youtu.be/CotRZp8l8uQ?si=xzyYJ1DbcgftRLq0"
+
+
+    # Python 
+    1. full course of python => elecodeiranxamin youtube 
