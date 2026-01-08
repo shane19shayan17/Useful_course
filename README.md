@@ -11,3 +11,7 @@
 
     # Python 
     1. full course of python => elecodeiranxamin youtube 
+
+
+    # ros 2
+        1_crash course for beginners => "https://youtu.be/HJAE5Pk8Nyw?si=zoWQw2KhelHv5Z0a"
